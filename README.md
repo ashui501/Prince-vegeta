@@ -1,7 +1,7 @@
 [![BlueMoon](https://telegra.ph/file/0daea386ad7d907d78f61.jpg "BlueMoon")](https://github.com/sylviorus/bluemoonvampire "BlueMoon")
 
 
-# Blue Moon Vampire Bot
+# prince vegeta robot 
 > An Telegram Antispam Based Bot .
 
 ## A Pyogram Bot to make banned, report easy 
